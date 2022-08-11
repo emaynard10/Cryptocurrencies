@@ -6,9 +6,15 @@ Unsupervised machine learning to create a report that includes what cryptocurren
 The purpose of the analysis is to use unsupervised machine learning to cluster data. Began by preprocessing the data with Pandas. This includes cleaning the data and using get_dummies() to convert to numerical values. The scaling the data with StandardScaler from the sklearn library. Then the Principal Component Analysis algorithm is applied to reduce the number of features to 3. The K means algorithm is then applied using hte elbow curve to get the best value for k. Joining the cleaned dataset with the pca data gives a new dataframe with information on crytopcurrencies and their clusters or class. The data is visualized with a 3d scatter plot to see the different clusters. Finally, the total coins and total mined coins clumns are scaled and fit to be plotted on a scatter plot. 
 
 ## Summary 
-The cryptocurrencies are successfully clustered into groups and the following ![Screen Shot 2022-08-11 at 2 22 16 PM](https://user-images.githubusercontent.com/99676466/184235283-96e8e3ce-534a-4fb6-a79a-4a910f6bedec.png)
-visualizations show the cryptocurrencies that are on the trading market. 
-The first cleaned dataframe looks like 
+The cryptocurrencies are successfully clustered into groups and the following visualizations show the cryptocurrencies that are on the trading market. 
+The first cleaned dataframe looks like this before the get_dummies method is applied:
+![Screen Shot 2022-08-11 at 2 22 16 PM](https://user-images.githubusercontent.com/99676466/184235283-96e8e3ce-534a-4fb6-a79a-4a910f6bedec.png)
+
+Then the PCA algorithm calculated the reduced number of dimensions as show in this dataframe:
+
+![Screen Shot 2022-08-11 at 2 25 49 PM](https://user-images.githubusercontent.com/99676466/184235988-894ab38f-7170-4a31-ace1-28f851b3feaf.png)
+
+#### Visualizations
 First, the elbow curve helps determine that the best k value for using kmeans is 4. 
 ![Screen Shot 2022-08-11 at 12 51 10 PM](https://user-images.githubusercontent.com/99676466/184233327-cf3a5be7-e7e5-4e4d-843b-64c0e19fa541.png)
 
