@@ -25,4 +25,12 @@ Then the 3d scatter shows the cryptocurrencies grouped into clusters with the cl
 ![Screen Shot 2022-08-11 at 12 53 29 PM](https://user-images.githubusercontent.com/99676466/184233369-5de44b8e-e3c4-4cfd-b68a-5c1854590746.png)
 
 And finally, the  scatter plot plots the total coins mined vs the total coin supply with the classes shown as different colors.
+
 ![Screen Shot 2022-08-11 at 12 54 21 PM](https://user-images.githubusercontent.com/99676466/184233401-a78ea25c-4406-428c-961d-3f0c71ec4b6a.png)
+
+### Contact
+
+emaynard10@gmail.com
+
+https://www.linkedin.com/in/emily-a-maynard/
+
