@@ -1,2 +1,2 @@
-# Cryptocurrencies
+# Cyptocurrencies
 Unsupervised machine learning
