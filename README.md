@@ -30,7 +30,7 @@ And finally, the  scatter plot plots the total coins mined vs the total coin sup
 
 ### Contact
 
-emaynard10@gmail.com
+[Email: contact Emily](emaynard10@gmail.com)
 
-https://www.linkedin.com/in/emily-a-maynard/
+[LinkedIn](https://www.linkedin.com/in/emily-a-maynard/)
 
